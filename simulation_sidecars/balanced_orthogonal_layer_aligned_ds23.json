@@ -1,0 +1,70 @@
+{
+ "scenario": "balanced_orthogonal",
+ "geometry": "layer_aligned",
+ "data_seed": 23,
+ "log2fc": 1.88,
+ "input_hash": "ec8f1fcd4404396cf91a40bd9ff78a6a47b6c94ffefe0b27489aa002eb731b19",
+ "n_spots": 15000,
+ "n_donors": 10,
+ "donors": [
+  "AD0",
+  "AD1",
+  "AD2",
+  "AD3",
+  "AD4",
+  "CT0",
+  "CT1",
+  "CT2",
+  "CT3",
+  "CT4"
+ ],
+ "donor_ad": [
+  1.0,
+  1.0,
+  1.0,
+  1.0,
+  1.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0
+ ],
+ "donor_theta": [
+  0.021366452128196704,
+  0.8817041077467512,
+  -0.31072763907059553,
+  -0.3723752962032007,
+  -0.05624476889201739,
+  0.35251813829003326,
+  0.2200804778245364,
+  0.10301594821406755,
+  -1.0624662143598216,
+  0.026437738592232387
+ ],
+ "donor_templates": [
+  "T4857",
+  "1-1",
+  "18-64",
+  "2-3",
+  "2-5",
+  "T4857",
+  "1-1",
+  "18-64",
+  "2-3",
+  "2-5"
+ ],
+ "realized_raw_contrast": 6.7237,
+ "injected_fraction": 0.2384,
+ "layer_counts": {
+  "Layer 3": 3991,
+  "White Matter": 2580,
+  "Layer 6": 1917,
+  "Layer 5": 1785,
+  "Layer 2": 1755,
+  "Layer 1": 1457,
+  "Layer 4": 1337,
+  "Noise": 178
+ },
+ "realized_disease_batch_corr": -0.0
+}

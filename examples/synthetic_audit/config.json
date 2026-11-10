@@ -1,0 +1,107 @@
+{
+  "analysis_mode": "unsupervised_order_audit",
+  "disease_axis_metrics": {
+    "mode": "donor_batch_matched_separation_auc_v1"
+  },
+  "disease_or_condition": "disease_or_condition",
+  "donor_id": "donor_id",
+  "embedding": {
+    "group_column": "group",
+    "layer_column": "layer",
+    "path": "embedding.npy",
+    "spot_ids": "spot_ids.npy"
+  },
+  "estimand": "synthetic donor-level demonstration only",
+  "evaluator": {
+    "functional_tests": [
+      {
+        "name": "keyed_synthetic_identity",
+        "passed": true
+      }
+    ],
+    "statistics": {
+      "ci_method": "cluster_bootstrap",
+      "multiple_testing": "Holm",
+      "unit": "donor"
+    }
+  },
+  "feature_panel": [
+    "G1",
+    "G2"
+  ],
+  "metadata": "metadata.csv",
+  "method_feature_panels": {
+    "synthetic": [
+      "G1",
+      "G2"
+    ]
+  },
+  "orders": [
+    {
+      "donor_keys": "A_original_donor_keys.npy",
+      "embedding": "A_original_embedding.npy",
+      "name": "A_original",
+      "spot_ids": "A_original_spot_ids.npy"
+    },
+    {
+      "donor_keys": "B_reverse_donor_keys.npy",
+      "embedding": "B_reverse_embedding.npy",
+      "name": "B_reverse",
+      "spot_ids": "B_reverse_spot_ids.npy"
+    },
+    {
+      "donor_keys": "C_interleaved_donor_keys.npy",
+      "embedding": "C_interleaved_embedding.npy",
+      "name": "C_interleaved",
+      "spot_ids": "C_interleaved_spot_ids.npy"
+    },
+    {
+      "donor_keys": "D_rotated_donor_keys.npy",
+      "embedding": "D_rotated_embedding.npy",
+      "name": "D_rotated",
+      "spot_ids": "D_rotated_spot_ids.npy"
+    }
+  ],
+  "osi_margin": 0.05,
+  "osi_orders_required": 4,
+  "outcome_informed_selection": false,
+  "perturbation_contract": {
+    "axis": "SAMPLE_SLICE_BATCH_ORDER",
+    "fixed_fields": [
+      "observations",
+      "entity_identities",
+      "hyperparameters",
+      "random_seed",
+      "intended_analysis"
+    ],
+    "semantics": "NUISANCE_PERMUTATION",
+    "unit": "slice"
+  },
+  "preprocessing": {
+    "fit_scope": "full_unsupervised_frozen",
+    "leakage_checked": true,
+    "outcome_informed_selection": false
+  },
+  "provenance": {
+    "case_id": "stia_installed_demo",
+    "orders": [
+      "A_original",
+      "B_reverse",
+      "C_interleaved",
+      "D_rotated"
+    ],
+    "run_id": "demo_1.3.8",
+    "seeds": {
+      "data": 0,
+      "model": 0
+    },
+    "software": {
+      "stia": "1.3.8"
+    }
+  },
+  "require_perturbation_contract": true,
+  "sample_id": "sample_id",
+  "seed": 0,
+  "spot_id": "spot_id",
+  "technical_batch": "technical_batch"
+}

@@ -1,0 +1,4078 @@
+{
+  "cases": [
+    {
+      "case_id": "55426df30cad58e7b793b544",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "e4d03f49767bf0c22a4baeef",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "dca0fb3e87c9d4747140b1b5",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "355dfc63b591bed56a2d9523",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "9764ca09ce6f361357380183",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "5aae3b3176dd84c89d7686b5",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "22fda97a677627cd51d94623",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "0573e278c1a5f73334437535",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "fb634afce249564545cb4ee6",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "26450d96fb5699bb55175608",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "7a73862c3a501fd007225cdd",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "b8507674198fd84e4b97a4ec",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "f6279fae773d1ce5a5b3f312",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "bfd5ab3372830dce1a8203af",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "9d6d90fee8168e101dd4ae2a",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "16475866a41bdaa487f262d7",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "25c7ecbd07a4bbc536abeaef",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "2453d931a9bac457b6dded56",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "1ceb28490a5f7897d1a20bd8",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "1d46bc92d046d2d75f66f732",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "4733e777671a203ad08391a8",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "f17b80116f9d4e3e5a3e59a4",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "02792ddf79b7415f9645eec2",
+      "action": "REJECT",
+      "families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "d9b8e9fd2c5ee4de0a35cede",
+      "action": "REJECT",
+      "families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "da12ac26acd22bc69a67a5a7",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "design"
+      ]
+    },
+    {
+      "case_id": "7b58599ecb5a367d02de1a41",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "5a6adf21d97926662b8db5bc",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "f3ec65f53fbf655971577cfd",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "f5a1c0763e471308ed9dfe6b",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "0b637c8676db680e657b8169",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "946da9ec295c57719cba2930",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "3810fc7fc61f6d7937b9b2f0",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "a7990c8a6575adaaf81ee638",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "2cbeeaa2d207e5c4b0192b70",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "e6d759ce2600ce7ae1adebb8",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "4c2500fd5778c96de3a59a23",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "d7bd224ea2d67370174f647b",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "e66193c0c263f1d14350b4e9",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "3107f5f73e185813ed4d2714",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "25f2569486b1fb3db84f73c2",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "86c2d55a9eeddd1197ac1f98",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "9365e960362d0b68347ecd3d",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "1a9f63593ff19b4ade0b5ac2",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "e1c20c7352df0abcb1279e35",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "d3b3df83d8f5080afced4972",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "7a9dc8e0472bbc1a298a1026",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "4c9dd588d1f8c2e09d92c6a6",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "4eda3deaff7cbbf332cf4148",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "0b8c46388677633aa2aa8492",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "75d8f00881075e4d2a4419c2",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "94762ccd0cd9ea04cd9fe10d",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "7820d69d2c57383195858429",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "18f8a3d44cd2d1ef5b7d1ee9",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "0eba33bbe494172fc36252e5",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "91f244f658f47df4b5560aee",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "26e041cb356e647d02999800",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "c9dbd85c483733796c4d2470",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "ca5791c042d427bdead71344",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "929e360ae77a79ad75ac2cf8",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "24dcaed54961e67b1de34ba2",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "343086e423875318d2cca5d3",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "028538dc9e9dba03eef2c9ba",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "a5bf76b1f103d371df7131cb",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "a7c54f46c95cdb993e9f8def",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "d79cba71fa56786edd589d75",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "9a0f61efb7d761bae1d4f0aa",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "0a78b65b1b8ec04d4ad0d61d",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "3a96e0523088060f594c5348",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "4f7f080fa1c08c583fa9e0fc",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "5ca3efed9918a10a772e1705",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "3f2b9b99fb3e83e83c91d2c8",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "19240261ef5148de29b0f05e",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "eaa8ce3f3a3b7621ada31e06",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "82d51423084c33cb01d96b5a",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "6254384ff043ce1d09502ce4",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "e2436a2fdaac8cefa2e3256f",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "a5602553d7bcd559c9985732",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "aef871276647ccffb9868a38",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "d98b82f34ff17e4cc99ea8ce",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "e9131272b19c4928e7cffffa",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "202cd075f0956e02b4916186",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "ecb95d15dc75c6f4d5a448e8",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "c9bfa54ee2afa45d43ba0e58",
+      "action": "REJECT",
+      "families": [
+        "quality",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "cbd9f9c64fa9b16b73ca02fa",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "24928a049960a1cfebcb30ee",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "be7dae73b14aae3de31a98e3",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "bc4e73a0cfd21df32a82fe70",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "d5a6963d900f653a1996af31",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "7b80739d87e277a7f5fea227",
+      "action": "REJECT",
+      "families": [
+        "identity",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "0dd348d317a89652bb88274d",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "6412859b8b1698e4ee82a1b5",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "design",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "68e6d0f887f6911f4204608c",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "b10aa7151d22f7b6318f8b15",
+      "action": "REJECT",
+      "families": [
+        "quality",
+        "stability",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "de9f9589483bd15771e78348",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "5d59f116182b9a6ac2e24b91",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "20912bafb3edd5c623a75fd3",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "82e01148b04e7079c0abc52a",
+      "action": "REJECT",
+      "families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "a266e00dfec0033c1864c7ba",
+      "action": "REJECT",
+      "families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "f24e6acbd2ff8f8054fab7e0",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "640ff2178cf6e93938ce3309",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "68c6835ed4bdc4c5a294b893",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "868a414237cd92e43760410b",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "febabb86947471fbd1a4d49d",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "b86fb85cad36c78c57fd54a1",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "2148ef279e94b1e3a2388dfa",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "5cc905c6db46262548b78d2f",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "fe3bb10199d0d2aa1a0b73a5",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "6c3936fb246b9b14ca371023",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "6f4b248305dd6d0be0a4c311",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "72deb5fbe5d5339fa4d406cb",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "1f91f4c83fe15bed02e5ab93",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "5029141267a0a7e94c0db44b",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "dd06b234e648725f8f7268d7",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "cbc97253dc1e05154ebad548",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "6e0e775ce8ddcfa5be75bf2d",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "bbcd1959205ca0d3422a085e",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "aded653a9300c20b3d14f0bb",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "82c5b13bf63340fa7e9054dc",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "5405a1d9c86db520c02bc441",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "9d7a48439bca66d88ef809eb",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "e41f3bb6998d79a2e627ea7d",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "4237adf00f2e0276f6dd9597",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "569eb771d88cffb663351556",
+      "action": "REJECT",
+      "families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "c4e1ed761d69173aef8d4e27",
+      "action": "REJECT",
+      "families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "c671682ad3670bbdb7932382",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "design"
+      ]
+    },
+    {
+      "case_id": "9f5a14db06b2d091dfb518b9",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "b49aeb7e97503696e425d88c",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "2463a2ac68e8ab9357a6723d",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "70224558b055bb50626b9f00",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "3fb42d9e2bfaaa9d207f3904",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "86a224256dee4f275b93a0d6",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "47cc29707074f90e11a548bb",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "379fd69fe63b49737867f8dc",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "4b855b32d9a09a74390a521b",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "ca5ea2f16a2a9e7332d73201",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "9bf2405dd6392b237f9a552e",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "dc02aea05567dcb1f6a31ab0",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "068d05bdb01f403fa89a8ee1",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "8103d10184f60f0bc6d118a1",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "e1b2b6b621fbacad00226473",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "0cbaaf731e166cb93378c67d",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "37841bc7f7e99756e41b668b",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "d9b62f7146c0bc4a5ea74722",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "e6c82388b88acc8ef6a9104a",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "c8c21087e97c69661f1fc7f2",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "873e92d300b7e6cdd8a3f8d7",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a76dceef722cea02cfcce6d5",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "54d365916edf70416f03e191",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "28b653a1d402c01cd178db39",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "91fd29965a27d8e9a8ef6818",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "f6811c42554a7bc07729b6a3",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "e1fd04aff57dbdf437c66410",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "632ffbaa73c7a4ee74f4bff4",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "d6a90020457a37055c03bac9",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "927f4f59ca7d4dc5f55babe5",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "057c62474afde6165e0df547",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "74c560da357045b059c30fe7",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "7cfa62a834d2743b1deafb5a",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "5036e1ff04fc9dcb598e5b47",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "bd1bdb7cfb192d79acb88761",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "b38b49e2ff51590005e27053",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "7023ad153c900e05225d6893",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "d4885280620bc0bb94f8e1f6",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "b948971df800c4e7f8471d7f",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "70b8ff1c68dc03260455b197",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "d39875012e56458e0ddb28a1",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "7b0d546b58f98f0bb0ef8899",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "6f1310fffb9d9f2336869535",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "2bdba5c7562879a319007a02",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "ca65abc90342a684885ea0e4",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "a6006bc3b9d653296a71e5e5",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "de714562d3a7bcb7800b1b37",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "c8b5e3811f72d801e4a1c021",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "fc027306ba139ba1ee08f296",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "b991be997d0cab8cfde23ade",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "e8960feed6c772d99c57f83c",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "70f7a4c869875524bfbc9681",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "29a20a66dd29154222b16619",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "d488b225f0b8d6b3a28f5972",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "c3f193de4b3895b82ebcd55a",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "9d0742dfda6dcbd61e623acd",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a8d9f35d866d7d222d9c5a3d",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "54d6ab51804b780554b6ccd9",
+      "action": "REJECT",
+      "families": [
+        "quality",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "4dc52b76c0cdfa47378d0c43",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "01ac3bd3d49747667dbcd771",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "610461f4fc48a0a0321b4f47",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "c5d69fccc8a2985f259bdc83",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "8e8f5264506977c2ce6cebd4",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "003f99f2aa23e8de82223c43",
+      "action": "REJECT",
+      "families": [
+        "identity",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "62e025df84d2117187b5d1eb",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "91f46b97043eb8cc325b5c8e",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "design",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "94061e2f32eb7eeee5e7f911",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "ee8dedafa1b2066debfa7044",
+      "action": "REJECT",
+      "families": [
+        "quality",
+        "stability",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "d4f067a41876010a05d1a33a",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "9c22409ed5aa3ce504895191",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "108615cf1460223a9720a534",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "b84bd96725fea1d0940ebe25",
+      "action": "REJECT",
+      "families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "dfee0fe4ac575f99516eedfe",
+      "action": "REJECT",
+      "families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "841d006a27740fd56efff565",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "63947b08a0a4d7b082e536f8",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "fc5be7c98f4a00d7b419b66b",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "c3610e1c5a8c6c8cb917932b",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "8dfea3263a488eed7e035c43",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "0c3fee5dce3e380e98ce170b",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "e4f7e1744ddc62a7a4f690e1",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "05462ee872277e8442c62cc7",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "0819ad4b54f91fd24a7e7f6c",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "1fe3d290e8ed8fd0c5ab9b54",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "36aa7a3eb616a92a89aa142f",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "b7d575f85d8a82a2d7d3166f",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "606d9c86292cc099a8245dfa",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "954e3e104049cbf51ffb68c0",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "2761824b77deb5b06e538189",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "df912f9509f1f728ca3cd6d3",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "5f0387d0c025e2b2d3cdc08d",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "17fb43c33a71dbadd0ca88fa",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "4299dd7e9fbde607853d2782",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "2db6f161688f6437da79db1a",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "949e2b014c9d440b284614e2",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "0235df28065293f0cd41671d",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "51bff8ec821e4561df56681b",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "bd9075bb1934c9f498c62739",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "4791f18cf33e483b31ef7257",
+      "action": "REJECT",
+      "families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "26b33cde4a64d62037adf503",
+      "action": "REJECT",
+      "families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "e00976f03d51933cf00b77e7",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "design"
+      ]
+    },
+    {
+      "case_id": "a1cd66157ef84a5698cbd70f",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "309134cf9f64ed77c1833916",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "c147d733ff6bbbb45c7aaed8",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "085447c05a6b76b5f1d014b2",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "bec31fab33ce0da41a1de2f5",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "beefea382526ec713a467718",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "6aedd8ea45423c2910e59ec1",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "0490941781382b57bb22f316",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "05191c0eb66d2f2a40b287a6",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "9a8f7f750d5c40003956e10c",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "da6276148155747035263090",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "6b5ec06b878d7d72b4f0d4ea",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "d8b82a9d18e8af76b19706df",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "cf09f1553af187156b12fb82",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "91acad546dcb3b007538eb3e",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "5575cedd98139226ffc87bcb",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a0910c9eb51fe77a7d85046c",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "c3db9d1e89a39b015b103563",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "8aedce16a136c5670c26c7cc",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "9c3ea011a03e122eea12c033",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "08e16c63e77a9c1b329491b5",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "f3d232c69bfa221dfccb1ad8",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "6597240dcb42fa338ac5ffcd",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "6c0269dba64155f885ccdd6d",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "b75268b8dc07e71fcf00715b",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "b73dd4fa3df7f0fd3bab0a32",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "42258cc580f442fc6e7bdf1b",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "b6bea9e10ae7bf8eb5cdf892",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "6452938f907fcf751bb303bd",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "6d08c428559d34d4e98fdee2",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "f1e896d9934126b13f3d3d30",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "935f875c0ce7e9b0690a8b4f",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "a3ec1963b0edf4f533c56a60",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "21b0476619cdcc78d4963596",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "99fd68e78ad302e17029c13d",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "ec8453b60047d84f2296f5a2",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "bd3b6580386cfe6b4ba8dbf2",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "3f8a28a5f33b7eda3c06e2d8",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "6d89a67fd36e4ee725f9712b",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "3f7b5a8d8e2cc220e321a8a8",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "06217a5e62855ab231d8c103",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "a23555d3b2fb0d80fdf47a9f",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "dd9829853b591410a2182ac4",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "3c43b9c86b6a9bea6fcac8a0",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "ea99dbf08d7b780ab3354382",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "542dc67695b7cdefb26ec95f",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "e93a579bd48c241ddd4ffeeb",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "81b04876638831fc90ae677e",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "19bf7347118e5bb350e2c1d5",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "52da8d129dcffbbbefcf9188",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "122019ee73bd4f1ba45fd0c5",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "f3bea45abc32ee4ad52bb81b",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "99b3038d2fc0980c75eeeabf",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "8db5e9e8e23ea5a74e4bb66d",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "aca2599bd5c466d3255b6744",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "4deb5fa3c85882464e66139e",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "38fc0ab15a1e4f62914f0c7c",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "23da990ee4a6933f9f5c6422",
+      "action": "REJECT",
+      "families": [
+        "quality",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "b9213a316018623d3fda3214",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "3ae4c11a7c1487ea10203270",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "00a5925d4fd3f180a067c155",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "5bd85f99f592db28259ee006",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "dc6236fd5489f63d496513db",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "1af7e3db263fd760063c5890",
+      "action": "REJECT",
+      "families": [
+        "identity",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "2b95250d4fae25c5cdbaecac",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "a38d11b604f958a4182ab210",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "design",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "f02230451d49fcec2c9a5cdd",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "5d138cec47040d1a039b002a",
+      "action": "REJECT",
+      "families": [
+        "quality",
+        "stability",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "f1be8aa06e484694424b0c70",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "c0652439bd0d45e575456b44",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "972c5855029d15c7a112760e",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "91f02b29daa91ac4507fd73d",
+      "action": "REJECT",
+      "families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "388cd199fee150afa0cd57a3",
+      "action": "REJECT",
+      "families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "febc4e380aaf803da86ae92f",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a3b8e4f04f4911ef6ffe6faf",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "d1fd5372f0fd10fe70509a8e",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "7e2e93cb361e37e02166c988",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "3c4395f4e64b636579dcec0b",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "3149ea52c78d08740ffa557e",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "7b908664acf8bad8d051f561",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "dd2d09ed12dee7d1354dcdde",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "7aa95ad69ff4ffcc7fc17c7f",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "a272f6925ec8dd6e8fdcb933",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "5a4170a331f8515290643799",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "f00149964f2cbbc8f4836721",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "4880afc3f3beaa031f3d7c9c",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "f0555b785fe5e197d6fbf753",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "8f1e597026bf9d1c20baef7d",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "654cbfab08c2abda2e8a1289",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "034cce58100ebdb4feceb08b",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "494273a2a47de288fd624ef4",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "57d9782a8badf2bcce613787",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "c5fb273d30ec1705af80dd2d",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "b93296c0f1a2fe2c6ce0e2cd",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "11bed31bcdc210e694bd1ac3",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "a3c9797c7a230586c69345eb",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "be62a592ccbf32da8a2bee49",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "4bab5f253c48d2637f382914",
+      "action": "REJECT",
+      "families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "28ae21b3fc5336933f1f2444",
+      "action": "REJECT",
+      "families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "8e5f34e566f485ef7adc476c",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "design"
+      ]
+    },
+    {
+      "case_id": "329deee75b9e2b5cb4894e68",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "ef696d7a5e5b44ff17d40b78",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "da1564a50fe89ec180ac5317",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "240617fdc851fd4ac3d88050",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "baa213907811537320afc5f4",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "33c7355ee40554f20ba0bfd8",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "555475b8cb4e711fc330a589",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "95f19224fa756758c289e2a4",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "0beb9508f3dbf22129802d62",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "5055a5e3efde6036a1512ef7",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "1cb4fd27385c1edfb6065387",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "5904d59be32537ab5cdf2a1f",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "76901b0b9a128c86f9f401bb",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "826c7136275678de61b8a3e9",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "0343c36021958964bdd50131",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "37bb6a1acc6c27808e890cc5",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "af67e323a1bcff54633ab9f1",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a82a85c8863f0976f0ce19d3",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "20a92b7fd24bf63e7fd8dc1f",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "504cb17d6bd9283c8eb2f2df",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "1985a3550cc4aeef5a3c0a7a",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "8fe21d14cb8b2f4157651039",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a041a5ebcbf24ba2c4f7e47b",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "65d82d1acbdb90ac40e04fdd",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "c2f3ef6f2b32efcf21c4a12e",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "50346d2d4707b85e927f1b72",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "fa3a6ac6b786852f02eb4a9a",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "af692a40b74ad5c4c6712868",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "cc72baa462c151a1b1d6c757",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "70b2195e90cd8832e0278437",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "9ec6de18a0d8f49ba0af4318",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "60e5b2371f2c60e93c60220f",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "db18a12a7c9ab866a1038115",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "b72f2f192afae78fd3e079e4",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "f9eb70386a3d983bdc26bc00",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "3e0376421c2a345c53aefa73",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "414eb9efa5b946f1814524bc",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "a0045e1b35485f3939b89df3",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "c51496b19dafc1eddcfe4bec",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "073dd636bfbd9a92a1f01fb5",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "0c9567637855650e732ddf86",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "b2a5eb2d8083cfffbb45a3cc",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "3a2a679e8642e00cfef3e916",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "f606a62c26dde000b264fece",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "7386a8b42fb930be7d8c69e2",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "835db3f14b08a9b4074e8f21",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "ce41370f33426873b45a11d1",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "8bcdb45736ff705ce4762e91",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "28ed873c1053a50d4378260d",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "ef9bacbfbf195da7b3123e84",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "e6b4520a87dfad1be044d376",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "040d8ff74dffb89a4c340ce3",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "5e1d93702a938cbb757a9ee5",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "ec53368ae537541de35d4215",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "7e6c598ff4d107ddd6bc08ec",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "12e3643e34d3dd91088031e5",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "d02d685f5112e3a4bb958de6",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "1d4fda54134d0594bfd42e78",
+      "action": "REJECT",
+      "families": [
+        "quality",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "8a5c5c8ab5d92b9d5a4f50a1",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "d4e64e0920bde17c4d002004",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "76d8748ded79260ae4e2fa08",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "fc504d58e91a5f4f0d2e5b92",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "07d85a6b98e1e5f344ed88bc",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "1fd278bd40f0502cad834a64",
+      "action": "REJECT",
+      "families": [
+        "identity",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "21c9027c828d67e2272b5ffc",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "c60751bbf672f906717b5a36",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "design",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "5d31adc458297eccb312497f",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "b7da9d17046fbabb3a79d036",
+      "action": "REJECT",
+      "families": [
+        "quality",
+        "stability",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "128fb2ebf010060b22dd6b38",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "fdb8c1ff49ddaee67fa0c67b",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "04db9907c40f1ecd3ba098b4",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "50409ef273ecdaafc88f262c",
+      "action": "REJECT",
+      "families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "170d8a5e41d6475aa3ef14eb",
+      "action": "REJECT",
+      "families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "6df750e9b4b7cebf7517de57",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "90127053d8f92f8390562039",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "cf634240065cdf40180e8175",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "3fb4869590c50435e1e301f2",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "a4820ce241a15adb9f5091c0",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "3fb51ebee69a4b61a3839554",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "5242b92524b67003465fdf4d",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "b4f73d3be5862988941a39a5",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "6d1d08736f3ec9854969eef1",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "8664ffdef66ebd0c82be3882",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "cadacca462bde3e9bd5d3271",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "8bf92904f09dc7f1c2f3198f",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "2c5a474d3d0035e04e9fb877",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "f6f471ace50204cf100db328",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "7c8da45d6171db7c994ce23c",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "cc3e0dc04c0287956d95473e",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "10b0b26e7e8bc0e77c9d4b80",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "ddf871cf748ba25f882b6e7d",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "f74ad23cda6607ddcaec0988",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "1378f6df974ba452c085b90a",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "5b58d2832160deb48200182e",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "305f69029f46370a7be5ff5b",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "3473fd5f12c4fc291252fb5e",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "57f57eb638f98445bb2562ab",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "21d3442f733cdda5f0229855",
+      "action": "REJECT",
+      "families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "bc8bf617e2bad716c928a32d",
+      "action": "REJECT",
+      "families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "4c4489292da4288cd371b9e8",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "design"
+      ]
+    },
+    {
+      "case_id": "f4a6827aa5365766baf73033",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "5a0c10c0a919a3d3dd6dc8c9",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "e79c76e2d35af0638da7e1dd",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "fe762d1cf678fe0b595e3ca3",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "88b1199d4af2ace58c8ea391",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "d76d35b7810e7b757a74b57e",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "44340c03e8f9548c39fbfd94",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "423f982b7b7c079121eec066",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "0be0ebceee255ee757a127b9",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "c9cabb6aa55090ac2ee313b2",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "83f1ae7ad9b66888a517bc04",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "d81158a451b8723d6b4538be",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "9959558cbd75096d1f46e1e3",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "878fc50ba58ebbac4016e596",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "6f7385b7174083b4a5d686b3",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "24d6009e8532fe2f37d1e5b8",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a8e1501e73792831ec4d9ac3",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "dad2632cef7f256843a20216",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "330bd22375abb9f80d500f1b",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "b79fb10309044ba6b01a9861",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a883d180d975971cdb1b7927",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "0366a4905de74e680bc997bd",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "491b9fe63f584719a99d6d6c",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "2d9d7758e607a4a58a8aafd0",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "4ba2a9f24185e03f2fc283fd",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "0465bb65b2a994f0fbb743b5",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "7beaa2ad52ba4ea1c8c85ef4",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "66c901a460b382febdd6a039",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "03e51e525579dea189d586c5",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "da995c9c3ca9b10399959430",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "1713f3078c65ad0ccbc0fca7",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "e5e603f2e2538851b0d9cdb0",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "35c5ea87f15e335820a8c630",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "1a14b0a3608f27bc9db380ba",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "dcdb69b2c294bec59e96c678",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "58dbe5a87c3c7994b8a59f7c",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "d5dc947b6ea35ba8ddc230eb",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "208c76dc18f9488ee678c466",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "5c7b6cd88e006248863fb57e",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "dfb15f8222bae0ea40c78366",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "6edc18189eeced93f07e4fb7",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "be898fd29e4d6abfb785b4d5",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "95831b3685c9e948f45a1e5b",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "34d5475cb4eb7254e3c7914f",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "86e41187128febf6cf459646",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "9c9b20fdbe11457d7ec9aca8",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "79389ce4068ce48ddc9df9c8",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "b33978bbba939b7dde126959",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "f82b62a6fa67673650052a2e",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "a08e3176815cdac6873f11db",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "e2947e8ece4a1cc3f84e9aed",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "f94928c19d19d693d1704f64",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "33331ddde6a8b13e6acd9dda",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "02d8a0150a98faeabb8bbfa9",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "31fa736030afd0607e9f25c2",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "6604d25163da357c0cf944b2",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "29a28d7eb8f038e91d94d49f",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "5080e89cf5b5c224604ab603",
+      "action": "REJECT",
+      "families": [
+        "quality",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "f92267bb0190e80f37dc64b4",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "6b39e11af66353173e465f49",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "149cce8ce486189c4aae482c",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "7533308972d57820057b7c8e",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "699c1287b7c0006360ba85e4",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "6d825585b496655bf23fae5b",
+      "action": "REJECT",
+      "families": [
+        "identity",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "598247725030566b542bdd03",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "d85611d53e915fbe0828ed9e",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "design",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "709c1aefddc1533527dfa487",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "5abb18a892ddd75fc31ea4dd",
+      "action": "REJECT",
+      "families": [
+        "quality",
+        "stability",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "606be54144c8f7331c134adb",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "ef0960d235738dfbbde28fbc",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "3ffa9ab894e841de17afc55b",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "0d998d99b240d44f0df305f4",
+      "action": "REJECT",
+      "families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "36606dde68a76cc1d87d949d",
+      "action": "REJECT",
+      "families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "b3564b1e056b1421734e5127",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "7275df950d8183ffed2df51e",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "db8b83473ff9bbeec2a8705d",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "73ffad6996749cbbf2189273",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "0156cf3d453e5f18fb6bce40",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "91ed5f1c5b7d2033da5e93b0",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "9607bef3502948f0bb9d0085",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "9c188547937e0cc6851b9744",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "7ca6d9d838f4bcf36f954dcb",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "403ba23b97c3c8f28b397796",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "c8708b0420545a6d146ede3a",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "f466d52346d7d32b7131da8d",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "346fc87e589d68900c9875ce",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "fa4a1cb6a1320ec721ff32e2",
+      "action": "ACCEPT",
+      "families": []
+    },
+    {
+      "case_id": "af43cd8a69543dc858748402",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "022c198a297de63e066166f1",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "c3acaa6f315c2817c9e004a9",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "2013e246e878a518bfe69d35",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "43bcc444834e85372fa6abd9",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "7204516729b90c72c8beab38",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "2e913c4fc5ddd5ffe0b0c5ce",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "1ad0701c4212de6c45ed34d6",
+      "action": "ABSTAIN",
+      "families": []
+    },
+    {
+      "case_id": "d969132940bd54b5ae8c53cd",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "f5ad0597f1f36f5aaee4536b",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "d26e8c5ced58cf16b0f4d74a",
+      "action": "REJECT",
+      "families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "ff51196b82df918012b81837",
+      "action": "REJECT",
+      "families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "1fb895b46d45f590c4ba012b",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "design"
+      ]
+    },
+    {
+      "case_id": "2bd0a9704f31babe5ee15a68",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "13639cb28ff0fb9e3911a0dc",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "7ee20824d93a2ba772754a52",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "d1f33dc9266ec3ab16b794d0",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "682c0adf6938acab67000a32",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "0862a0e980bc6044d3a8b6bb",
+      "action": "REJECT",
+      "families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "bb38ab798b1239a7a947c320",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "da3961da402df9fead230670",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "fcd4c251981260605b58debc",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "078db8548a0311817bc20b3c",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "9984c91f4485c99fb5f012fc",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "86145c4e09b6137e9fc539ce",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "22ce10a6b949d25f155ec2ce",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "fa9d107e45f3ca2129774e08",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "cd12b7d8907d5bd02a5a86a9",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "7526a9f2a97d7475cd3a2c00",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "df922280b7b746ccb5e17430",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "d638a3e5f4d5fa33b36d2d82",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "2c29025933a0ad37b9194922",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "3f384d03a430c5fece95aae5",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "d3c83025dd087e74a887507d",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "ebf164548ba054439f37f41e",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "455d163694e32ba024576ca9",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "15e762579e2ce8af16744830",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "97b977b85040d449b724f96d",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a20457ca4d08fdd615c85d01",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "698bad920eaa8a393d01cf0e",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "faf36c388caec6f0cd49c71e",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "82168e3e9dfbaff8e906a6c1",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "607a9d156c9625b8eb84db6c",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "33ed7427272b4f4dba5c72a1",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "da18cc9bbf567c2bdaeb392b",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "82a20156ba1af95b22a7237f",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "94a953989383f10fe6985c62",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "d8c28f7b734ea98b2f4b50a7",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "2a068c0d6c1e020d77f3cec5",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "b93b6f36bf0e0965b92f1a1a",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "736907d7534cd269ca7d7786",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "2bae468259292419d45fe450",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "603f3509c2ce1fd3fc6110a1",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "123f2a910b6a64ae4d8202cc",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "e5b3e0a523a6136179e72073",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "61289f21356dc425323d2d7c",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "db22622e5b246de866b27178",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "14ee853d4bc3e2ab2df73cf3",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "3d82fde3319590e42fb5aa40",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "50cbb68135f8cdb53da811c0",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "0455c2892f8038153f40dd13",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "09d8e75b3c15c14571b8a157",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "5e6902f8a424be899f4b222b",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "622227428b7df237efec3b70",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "6774a14d239a812b6abd4dce",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "6a5d5de4ed9122e9c6b13418",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "7a4bf3c203620f14a2de2c81",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "9ad246d1d11790a0e52e2617",
+      "action": "REJECT",
+      "families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "dd969fdd3012532603e5161d",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "7b50d39a115a005e6fd0b4e4",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "04c9fe94d665719f9d62adbf",
+      "action": "REJECT",
+      "families": [
+        "quality",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "4e0243a18ce8c69f8281f36a",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "c4a6cee971614737faba38f4",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "e81c074a3cff84133b9e78aa",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "87e1251350eabe22299df384",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "74394ab94f55f0a322dd0499",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "30a009e3b2de07fce5c8dd61",
+      "action": "REJECT",
+      "families": [
+        "identity",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "3a669e3eee35df8ffb7ff430",
+      "action": "REJECT",
+      "families": [
+        "features",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "3f698a7a83106cde9b320eee",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "design",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "f23814532252e05e469c9079",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "29b848b891f0cd90c07605cc",
+      "action": "REJECT",
+      "families": [
+        "quality",
+        "stability",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "250ac6112a1a6e22f19c54f8",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "9263eb4094d2e343f801a1a0",
+      "action": "REJECT",
+      "families": [
+        "custody",
+        "quality"
+      ]
+    },
+    {
+      "case_id": "e66f7bf99b3b9c81b3794eb5",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "52742362a6551551005f2301",
+      "action": "REJECT",
+      "families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "b12a752bfe0f207e06afb252",
+      "action": "REJECT",
+      "families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "3b6ff085d64ff9c599ebc1d3",
+      "action": "REJECT",
+      "families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "bf21ac3ffced886e1bc88680",
+      "action": "REJECT",
+      "families": [
+        "custody"
+      ]
+    }
+  ]
+}

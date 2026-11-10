@@ -1,0 +1,237 @@
+{
+  "status": "PASS",
+  "tool_version": "1.3.8",
+  "report_schema_version": "1.2.1",
+  "cases": 880,
+  "parents": 160,
+  "faults": 720,
+  "clean": 160,
+  "variants": 12,
+  "exact_source_files_shared_with_600_and_208": 104,
+  "changed_case_count": 0,
+  "ablation_json_identical_to_134": true,
+  "clean_decisions": {
+    "ABSTAIN": 160
+  },
+  "fault_decisions": {
+    "REJECT": 720
+  },
+  "families": {
+    "M1": {
+      "n": 80,
+      "target_fail": 80,
+      "direct_reject": 80,
+      "unsafe_accept": 0
+    },
+    "M2": {
+      "n": 160,
+      "target_fail": 160,
+      "direct_reject": 160,
+      "unsafe_accept": 0
+    },
+    "M3": {
+      "n": 80,
+      "target_fail": 80,
+      "direct_reject": 80,
+      "unsafe_accept": 0
+    },
+    "M4": {
+      "n": 80,
+      "target_fail": 80,
+      "direct_reject": 80,
+      "unsafe_accept": 0
+    },
+    "M5": {
+      "n": 80,
+      "target_fail": 80,
+      "direct_reject": 80,
+      "unsafe_accept": 0
+    },
+    "M6": {
+      "n": 80,
+      "target_fail": 80,
+      "direct_reject": 80,
+      "unsafe_accept": 0
+    },
+    "M7": {
+      "n": 80,
+      "target_fail": 80,
+      "direct_reject": 80,
+      "unsafe_accept": 0
+    },
+    "M8": {
+      "n": 80,
+      "target_fail": 80,
+      "direct_reject": 80,
+      "unsafe_accept": 0
+    }
+  },
+  "variant_counts": [
+    {
+      "variant": "full_framework",
+      "defect_recall": 1.0,
+      "clean_case_fpr": 0.0,
+      "unsafe_acceptance_rate": 0.0,
+      "abstention_rate": 0.18181818181818182,
+      "fault_REJECT": 720,
+      "fault_ABSTAIN": 0,
+      "fault_ACCEPT": 0,
+      "clean_REJECT": 0,
+      "clean_ABSTAIN": 160,
+      "clean_ACCEPT": 0
+    },
+    {
+      "variant": "drop_M1",
+      "defect_recall": 0.8888888888888888,
+      "clean_case_fpr": 0.0,
+      "unsafe_acceptance_rate": 0.0,
+      "abstention_rate": 0.2727272727272727,
+      "fault_REJECT": 640,
+      "fault_ABSTAIN": 80,
+      "fault_ACCEPT": 0,
+      "clean_REJECT": 0,
+      "clean_ABSTAIN": 160,
+      "clean_ACCEPT": 0
+    },
+    {
+      "variant": "drop_M2",
+      "defect_recall": 0.8888888888888888,
+      "clean_case_fpr": 0.0,
+      "unsafe_acceptance_rate": 0.0,
+      "abstention_rate": 0.2727272727272727,
+      "fault_REJECT": 640,
+      "fault_ABSTAIN": 80,
+      "fault_ACCEPT": 0,
+      "clean_REJECT": 0,
+      "clean_ABSTAIN": 160,
+      "clean_ACCEPT": 0
+    },
+    {
+      "variant": "drop_M3",
+      "defect_recall": 0.8888888888888888,
+      "clean_case_fpr": 0.0,
+      "unsafe_acceptance_rate": 0.0,
+      "abstention_rate": 0.2727272727272727,
+      "fault_REJECT": 640,
+      "fault_ABSTAIN": 80,
+      "fault_ACCEPT": 0,
+      "clean_REJECT": 0,
+      "clean_ABSTAIN": 160,
+      "clean_ACCEPT": 0
+    },
+    {
+      "variant": "drop_M4",
+      "defect_recall": 0.8888888888888888,
+      "clean_case_fpr": 0.0,
+      "unsafe_acceptance_rate": 0.0,
+      "abstention_rate": 0.2727272727272727,
+      "fault_REJECT": 640,
+      "fault_ABSTAIN": 80,
+      "fault_ACCEPT": 0,
+      "clean_REJECT": 0,
+      "clean_ABSTAIN": 160,
+      "clean_ACCEPT": 0
+    },
+    {
+      "variant": "drop_M5",
+      "defect_recall": 0.8888888888888888,
+      "clean_case_fpr": 0.0,
+      "unsafe_acceptance_rate": 0.0,
+      "abstention_rate": 0.2727272727272727,
+      "fault_REJECT": 640,
+      "fault_ABSTAIN": 80,
+      "fault_ACCEPT": 0,
+      "clean_REJECT": 0,
+      "clean_ABSTAIN": 160,
+      "clean_ACCEPT": 0
+    },
+    {
+      "variant": "drop_M6",
+      "defect_recall": 0.8888888888888888,
+      "clean_case_fpr": 0.0,
+      "unsafe_acceptance_rate": 0.0,
+      "abstention_rate": 0.2727272727272727,
+      "fault_REJECT": 640,
+      "fault_ABSTAIN": 80,
+      "fault_ACCEPT": 0,
+      "clean_REJECT": 0,
+      "clean_ABSTAIN": 160,
+      "clean_ACCEPT": 0
+    },
+    {
+      "variant": "drop_M7",
+      "defect_recall": 0.8888888888888888,
+      "clean_case_fpr": 0.0,
+      "unsafe_acceptance_rate": 0.1111111111111111,
+      "abstention_rate": 0.0,
+      "fault_REJECT": 640,
+      "fault_ABSTAIN": 0,
+      "fault_ACCEPT": 80,
+      "clean_REJECT": 0,
+      "clean_ABSTAIN": 0,
+      "clean_ACCEPT": 160
+    },
+    {
+      "variant": "drop_M8",
+      "defect_recall": 0.8888888888888888,
+      "clean_case_fpr": 0.0,
+      "unsafe_acceptance_rate": 0.0,
+      "abstention_rate": 0.2727272727272727,
+      "fault_REJECT": 640,
+      "fault_ABSTAIN": 80,
+      "fault_ACCEPT": 0,
+      "clean_REJECT": 0,
+      "clean_ABSTAIN": 160,
+      "clean_ACCEPT": 0
+    },
+    {
+      "variant": "drop_M9",
+      "defect_recall": 1.0,
+      "clean_case_fpr": 0.0,
+      "unsafe_acceptance_rate": 0.0,
+      "abstention_rate": 0.18181818181818182,
+      "fault_REJECT": 720,
+      "fault_ABSTAIN": 0,
+      "fault_ACCEPT": 0,
+      "clean_REJECT": 0,
+      "clean_ABSTAIN": 160,
+      "clean_ACCEPT": 0
+    },
+    {
+      "variant": "drop_M1_M6",
+      "defect_recall": 0.7777777777777778,
+      "clean_case_fpr": 0.0,
+      "unsafe_acceptance_rate": 0.0,
+      "abstention_rate": 0.36363636363636365,
+      "fault_REJECT": 560,
+      "fault_ABSTAIN": 160,
+      "fault_ACCEPT": 0,
+      "clean_REJECT": 0,
+      "clean_ABSTAIN": 160,
+      "clean_ACCEPT": 0
+    },
+    {
+      "variant": "drop_M7_M8",
+      "defect_recall": 0.7777777777777778,
+      "clean_case_fpr": 0.0,
+      "unsafe_acceptance_rate": 0.2222222222222222,
+      "abstention_rate": 0.0,
+      "fault_REJECT": 560,
+      "fault_ABSTAIN": 0,
+      "fault_ACCEPT": 160,
+      "clean_REJECT": 0,
+      "clean_ABSTAIN": 0,
+      "clean_ACCEPT": 160
+    }
+  ],
+  "evidence_sha256": {
+    "PROTOCOL.json": "a44fa0a57d083fe537f717c3b1e1f9aba73c815aa3cba630b1caddf7f6f85656",
+    "replay.py": "82bebd8dfc15ad443a18cff5de0ff99bbaf5419d54ac540ed980888afc19bfe3",
+    "validate.py": "61dbd602861628f4edd0c3724b448aa045141ba7f50b337e71fc73bd14b899c8",
+    "run_r1\\FROZEN_EXECUTION.json": "80a130353751b545bb0559649b72118e1cf4bceaf6981fc4f572065c88effdb0",
+    "run_r1\\SCORING.json": "d81dcd3958a2873f665be46f81bd36747590c196b20fe6b9a954dbc3c5a57207",
+    "run_r1\\ABLATION.json": "de281f4cacd042801ff182c6f3793f44217d99f5cfab1040a95094fc9b773b0b",
+    "run_r1\\TERMINAL.json": "d81b9da6286d35da1cbc30d291993497b9262a6e61c2ec30127f667e2975e86e"
+  },
+  "scope": "Same frozen synthetic 880 cases and same ablation policy replayed using exact accepted 600/208 STIA1.3.8 snapshot; not a new biological cohort or a newly tuned comparison."
+}

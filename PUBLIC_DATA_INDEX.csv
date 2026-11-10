@@ -1,0 +1,11 @@
+source,accession,public_access_url,manuscript_use
+DLPFC,Maynard et al. 2021,https://research.libd.org/spatialLIBD/articles/spatialLIBD.html,Tissue-layer annotated sections for three-axis evaluation and targeted controls
+GSE254652,GSE254652,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE254652,Physical neighborhood recall and input-order analysis
+GSE319236,GSE319236,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE319236,Spatial preservation donor classification and targeted controls
+GSE307403,GSE307403,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE307403,Shared-panel three-axis evaluation and separate order-analysis panels
+GSE269906,GSE269906,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE269906,Donor classification input-order analysis and targeted controls
+GSE307990,GSE307990,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE307990,Historical order matrix and INSPIRE representation analysis
+CosMx,GSE234713,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234713,Cross-platform input standardization
+Xenium,GSE282123,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE282123,Real-data fault diagnosis panels
+GSE220442,GSE220442,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220442,Historical supplementary analysis
+GSE233208,GSE233208,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE233208,Historical supplementary analysis

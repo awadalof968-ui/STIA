@@ -1,0 +1,78 @@
+{
+  "datasets": 90,
+  "data_seeds": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "geometries": [
+    "diffuse",
+    "layer_aligned",
+    "focal"
+  ],
+  "spots_per_dataset": 15000,
+  "donors_per_dataset": 10,
+  "donors_per_state": 5,
+  "spots_per_donor": 1500,
+  "background_genes": 8002,
+  "processing_batches": 2,
+  "disease_batch_correlation_all_inputs": 0,
+  "donor_gene_noise_sd": 0.15,
+  "donor_program_noise_sd": 0.5,
+  "technical_signature_sd": 0.3,
+  "geometry_log2fc_parameters": {
+    "diffuse": 1.0,
+    "layer_aligned": 1.88,
+    "focal": 3.56
+  },
+  "focal_radius_in_normalized_coordinates": 0.15,
+  "focal_center_offset_sd": 0.08,
+  "focal_center_coordinate_clip": [
+    0.05,
+    0.95
+  ],
+  "layer_aligned_target_layers": [
+    "Layer 3",
+    "Layer 4",
+    "Layer 5"
+  ],
+  "signal_genes": [
+    "TREM2",
+    "TYROBP",
+    "AIF1",
+    "CD68",
+    "SPI1",
+    "C1QA",
+    "C1QB",
+    "C1QC"
+  ],
+  "sampling": "Real template coordinates and layer labels; paired states use the same template, 1500 locations sampled without replacement per donor.",
+  "counts": "Poisson library-depth-scaled softmax of layer background plus donor gene/program effects, processing-batch signature and spatially masked state-program shift."
+}

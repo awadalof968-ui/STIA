@@ -1,0 +1,996 @@
+[
+  {
+    "dataset": "GSE307403",
+    "reference": "PCA",
+    "candidate": "Harmony",
+    "units": 12,
+    "axes": [
+      "biology",
+      "batch",
+      "space"
+    ],
+    "mean_differences": [
+      -0.09375,
+      -0.14820772879314248,
+      -0.014650000000000024
+    ],
+    "standard_errors": [
+      0.053577064999301656,
+      0.03327164218751371,
+      0.0009050782654923643
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 1.0,
+    "holm_adjusted_directional_p": [
+      1.0,
+      1.0,
+      1.0,
+      0.21591098968896302,
+      0.002428706322272718,
+      1.5303891333886813e-08
+    ]
+  },
+  {
+    "dataset": "GSE307403",
+    "reference": "PCA",
+    "candidate": "STAligner",
+    "units": 12,
+    "axes": [
+      "biology",
+      "batch",
+      "space"
+    ],
+    "mean_differences": [
+      -0.07638888888888884,
+      -0.16155356702326906,
+      0.11528472222222219
+    ],
+    "standard_errors": [
+      0.06524553254741802,
+      0.04614116597141735,
+      0.005074343125762049
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": true,
+    "bonferroni_tradeoff": true,
+    "holm_tradeoff": true,
+    "iut_tradeoff": true,
+    "iut_p": 0.007438538587767581,
+    "holm_adjusted_directional_p": [
+      1.0,
+      1.0,
+      4.067771970148802e-10,
+      0.5328428067325912,
+      0.01239756431294597,
+      1.0
+    ]
+  },
+  {
+    "dataset": "GSE307403",
+    "reference": "Harmony",
+    "candidate": "STAligner",
+    "units": 12,
+    "axes": [
+      "biology",
+      "batch",
+      "space"
+    ],
+    "mean_differences": [
+      0.01736111111111116,
+      -0.013345838230126583,
+      0.12993472222222222
+    ],
+    "standard_errors": [
+      0.033023470337833365,
+      0.04493402537631632,
+      0.005117995935949227
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": true,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 1.0,
+    "holm_adjusted_directional_p": [
+      1.0,
+      1.0,
+      1.2245445939361697e-10,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "PCA",
+    "candidate": "Harmony",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      -0.016186556927297757,
+      -0.004075292397660829
+    ],
+    "standard_errors": [
+      0.014338732691347831,
+      0.0004411648457663141
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 1.0,
+    "holm_adjusted_directional_p": [
+      1.0,
+      1.0,
+      0.41066106047168677,
+      5.966223614888774e-08
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "PCA",
+    "candidate": "INSPIRE",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      -0.023411065386374053,
+      0.24816008771929818
+    ],
+    "standard_errors": [
+      0.014036298048438135,
+      0.006691300782679729
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": true,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.11263919774766955,
+    "holm_adjusted_directional_p": [
+      1.0,
+      3.7367390593769885e-18,
+      0.16895879662150431,
+      1.0
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "PCA",
+    "candidate": "GraphST",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      -0.013808870598994105,
+      0.10028508771929831
+    ],
+    "standard_errors": [
+      0.009774992706847693,
+      0.004309987889250381
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": true,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.17480942859351734,
+    "holm_adjusted_directional_p": [
+      1.0,
+      1.3919305860212515e-14,
+      0.262214142890276,
+      1.0
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "PCA",
+    "candidate": "STAligner",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      -0.013625971650663093,
+      0.30875438596491234
+    ],
+    "standard_errors": [
+      0.02252952600505657,
+      0.007599084154713964
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": true,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.5528572128475564,
+    "holm_adjusted_directional_p": [
+      1.0,
+      7.364690752622482e-19,
+      0.8292858192713346,
+      1.0
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "PCA",
+    "candidate": "PRECAST",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      0.00516689529035208,
+      -0.006899122807017571
+    ],
+    "standard_errors": [
+      0.03219112372028682,
+      0.006973182725909444
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": true,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.8742694344674322,
+    "holm_adjusted_directional_p": [
+      1.0,
+      1.0,
+      1.0,
+      0.6711835184716808
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "Harmony",
+    "candidate": "INSPIRE",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      -0.007224508459076295,
+      0.252235380116959
+    ],
+    "standard_errors": [
+      0.012151833106720984,
+      0.006606891402095565
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": true,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.5595638477680427,
+    "holm_adjusted_directional_p": [
+      1.0,
+      2.2316246909719774e-18,
+      0.839345771652064,
+      1.0
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "Harmony",
+    "candidate": "GraphST",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      0.002377686328303652,
+      0.10436038011695914
+    ],
+    "standard_errors": [
+      0.014962680664866094,
+      0.004305894638820823
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 1.0,
+    "holm_adjusted_directional_p": [
+      1.0,
+      6.826129245979237e-15,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "Harmony",
+    "candidate": "STAligner",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      0.0025605852766346637,
+      0.3128296783625732
+    ],
+    "standard_errors": [
+      0.022261067029303073,
+      0.007427661670276045
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 1.0,
+    "holm_adjusted_directional_p": [
+      1.0,
+      3.8820538135554403e-19,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "Harmony",
+    "candidate": "PRECAST",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      0.021353452217649838,
+      -0.0028238304093567423
+    ],
+    "standard_errors": [
+      0.030761433576588258,
+      0.006944790525215919
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": true,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.6890873552568492,
+    "holm_adjusted_directional_p": [
+      0.9928843002216814,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "INSPIRE",
+    "candidate": "GraphST",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      0.009602194787379947,
+      -0.14787499999999987
+    ],
+    "standard_errors": [
+      0.013798200292533553,
+      0.007307605803739444
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": true,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.49537822157036027,
+    "holm_adjusted_directional_p": [
+      0.7430673323555403,
+      1.0,
+      1.0,
+      1.5734393921618703e-13
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "INSPIRE",
+    "candidate": "STAligner",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      0.009785093735710959,
+      0.06059429824561419
+    ],
+    "standard_errors": [
+      0.019764409111687604,
+      0.005790141231672458
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 1.0,
+    "holm_adjusted_directional_p": [
+      0.9397923654372891,
+      8.833925913484564e-09,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "INSPIRE",
+    "candidate": "PRECAST",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      0.028577960676726133,
+      -0.25505921052631575
+    ],
+    "standard_errors": [
+      0.029842251444913932,
+      0.00957311161145692
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": true,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.3509339675897014,
+    "holm_adjusted_directional_p": [
+      0.5264009513845521,
+      1.0,
+      1.0,
+      1.2977420856654534e-15
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "GraphST",
+    "candidate": "STAligner",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      0.00018289894833101172,
+      0.20846929824561405
+    ],
+    "standard_errors": [
+      0.02150450668641572,
+      0.007530608729803161
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 1.0,
+    "holm_adjusted_directional_p": [
+      1.0,
+      6.618027895567457e-16,
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "GraphST",
+    "candidate": "PRECAST",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      0.018975765889346186,
+      -0.10718421052631588
+    ],
+    "standard_errors": [
+      0.03531319844368861,
+      0.006365869026007145
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": true,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.5976026170909305,
+    "holm_adjusted_directional_p": [
+      0.8964039256363958,
+      1.0,
+      1.0,
+      3.674749887282308e-12
+    ]
+  },
+  {
+    "dataset": "GSE319236",
+    "reference": "STAligner",
+    "candidate": "PRECAST",
+    "units": 19,
+    "axes": [
+      "biology",
+      "space"
+    ],
+    "mean_differences": [
+      0.018792866941015174,
+      -0.31565350877192994
+    ],
+    "standard_errors": [
+      0.03804757635499866,
+      0.009675787739861547
+    ],
+    "inference": "paired donor jackknife t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": true,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.6273283389383362,
+    "holm_adjusted_directional_p": [
+      0.9409925084075043,
+      1.0,
+      1.0,
+      3.6394943171816123e-17
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "PCA",
+    "candidate": "Harmony",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      -0.006152151802740702
+    ],
+    "standard_errors": [
+      0.0021896150614446135
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.9846157437149372,
+    "holm_adjusted_directional_p": [
+      0.9846157437149372,
+      0.030768512570125583
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "PCA",
+    "candidate": "INSPIRE",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      0.006146512443518548
+    ],
+    "standard_errors": [
+      0.015295332065106514
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.6491432605068961,
+    "holm_adjusted_directional_p": [
+      0.7017134789862078,
+      0.7017134789862078
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "PCA",
+    "candidate": "GraphST",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      0.06160066652934476
+    ],
+    "standard_errors": [
+      0.00908608423927025
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.9997482714069937,
+    "holm_adjusted_directional_p": [
+      0.0005034571860124675,
+      0.9997482714069937
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "PCA",
+    "candidate": "STAligner",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      0.07488414510508098
+    ],
+    "standard_errors": [
+      0.01446587052592108
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.9989694370646451,
+    "holm_adjusted_directional_p": [
+      0.0020611258707097574,
+      0.9989694370646451
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "PCA",
+    "candidate": "PRECAST",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      -0.06547642965207964
+    ],
+    "standard_errors": [
+      0.009209354621951302
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.9998054246286774,
+    "holm_adjusted_directional_p": [
+      0.9998054246286774,
+      0.00038915074264527253
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "Harmony",
+    "candidate": "INSPIRE",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      0.01229866424625925
+    ],
+    "standard_errors": [
+      0.013710269492287408
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.7978741804876577,
+    "holm_adjusted_directional_p": [
+      0.4042516390246846,
+      0.7978741804876577
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "Harmony",
+    "candidate": "GraphST",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      0.06775281833208546
+    ],
+    "standard_errors": [
+      0.007525188948801048
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.9999474785516104,
+    "holm_adjusted_directional_p": [
+      0.00010504289677928461,
+      0.9999474785516104
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "Harmony",
+    "candidate": "STAligner",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      0.08103629690782169
+    ],
+    "standard_errors": [
+      0.012728463848247407
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.9996474649769967,
+    "holm_adjusted_directional_p": [
+      0.000705070046006425,
+      0.9996474649769967
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "Harmony",
+    "candidate": "PRECAST",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      -0.05932427784933894
+    ],
+    "standard_errors": [
+      0.007718587016060203
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.9998730330986733,
+    "holm_adjusted_directional_p": [
+      0.9998730330986733,
+      0.0002539338026534136
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "INSPIRE",
+    "candidate": "GraphST",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      0.05545415408582621
+    ],
+    "standard_errors": [
+      0.006397595089935207
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.9999349723557609,
+    "holm_adjusted_directional_p": [
+      0.0001300552884783287,
+      0.9999349723557609
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "INSPIRE",
+    "candidate": "STAligner",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      0.06873763266156244
+    ],
+    "standard_errors": [
+      0.005386197756268379
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.9999928954360816,
+    "holm_adjusted_directional_p": [
+      1.4209127836778902e-05,
+      0.9999928954360816
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "INSPIRE",
+    "candidate": "PRECAST",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      -0.07162294209559819
+    ],
+    "standard_errors": [
+      0.007104283260756779
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.9999723529363951,
+    "holm_adjusted_directional_p": [
+      0.9999723529363951,
+      5.529412720971286e-05
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "GraphST",
+    "candidate": "STAligner",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      0.013283478575736224
+    ],
+    "standard_errors": [
+      0.006983082845975166
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.9470794811679188,
+    "holm_adjusted_directional_p": [
+      0.10584103766416245,
+      0.9470794811679188
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "GraphST",
+    "candidate": "PRECAST",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      -0.1270770961814244
+    ],
+    "standard_errors": [
+      0.002273828842282997
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.9999999988978804,
+    "holm_adjusted_directional_p": [
+      0.9999999988978804,
+      2.2042393169712688e-09
+    ]
+  },
+  {
+    "dataset": "GSE254652",
+    "reference": "STAligner",
+    "candidate": "PRECAST",
+    "units": 7,
+    "axes": [
+      "space"
+    ],
+    "mean_differences": [
+      -0.14036057475716063
+    ],
+    "standard_errors": [
+      0.00877893734849932
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": false,
+    "observed_mixed_sign": false,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.9999980989310586,
+    "holm_adjusted_directional_p": [
+      0.9999980989310586,
+      3.8021378826305135e-06
+    ]
+  },
+  {
+    "dataset": "DLPFC",
+    "reference": "PCA",
+    "candidate": "Harmony",
+    "units": 3,
+    "axes": [
+      "batch",
+      "space"
+    ],
+    "mean_differences": [
+      0.09577172105780979,
+      -0.0752551880893832
+    ],
+    "standard_errors": [
+      0.012351926358402992,
+      0.026354583260307655
+    ],
+    "inference": "paired grouping-unit t approximation",
+    "tradeoff_eligible": true,
+    "observed_mixed_sign": true,
+    "bonferroni_tradeoff": false,
+    "holm_tradeoff": false,
+    "iut_tradeoff": false,
+    "iut_p": 0.10388081108398604,
+    "holm_adjusted_directional_p": [
+      0.03246015392304771,
+      1.0,
+      1.0,
+      0.15582121662597906
+    ]
+  }
+]

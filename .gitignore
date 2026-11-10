@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+*.egg-info/
+/demo_case/
+/demo_report/
+/build/
+/examples/synthetic_audit/demo_report/

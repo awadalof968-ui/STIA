@@ -1,0 +1,1388 @@
+{
+  "records": [
+    {
+      "case_id": "c643ad2dcdc74142c0f56c48",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "c26bcb440bbd14e7a7eeaac0",
+      "decision": "REJECT",
+      "predicted_families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "d13d51dbe728b3b9d4a6422d",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "2289208f34b277de7be3ab16",
+      "decision": "ABSTAIN",
+      "predicted_families": []
+    },
+    {
+      "case_id": "bf618840545ec89ca6ecb839",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "69e8d05363e656208e1a1a12",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "aa09d70e8fdcf7a4a7fba22a",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "e3bc09d97468c65edf47c2b6",
+      "decision": "REJECT",
+      "predicted_families": [
+        "design",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "941fcf469e0d803d4cb76672",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "deb607f6c5a07bf162eb06ac",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "d272af52f1119d160b3a8167",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "31de872e7d178dd1ba8624c4",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "817b83240d68e34beb12f571",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "888d4cb4bde53db4bef199ce",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "ef7978471c3f144071c8334d",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "763a95ad8032dfb516eb7106",
+      "decision": "ABSTAIN",
+      "predicted_families": []
+    },
+    {
+      "case_id": "147fd11811cc140bc2896273",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "38ebe95e812540faf56363b3",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "6c8f24c25e893205dd17614d",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "4bf0e610a702a03140defe61",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a63c73e58ea7d7f8e8ad43d3",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "f6d05136256480c5c4605f0f",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "fc5c0123c5efbf3e1a93f29f",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "69999a9b6a7e54b874e10110",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a859707f7dd679a9b345db84",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "83fa675876071c5c74bd501f",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "ae934add3f6c521931117dfc",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "a943168aeeb7f7735547fb48",
+      "decision": "REJECT",
+      "predicted_families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "e79f2682d892538388f89c6c",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "614a7e8af94becfa175f0d0a",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "1188b5cfc49a72df95378299",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "bb7e6e29879ae0a6dff5ee4d",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "57488a51c9ee069c204d84f7",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "69d8a1bb175a7a86a847c36d",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "9fd7b4881a883415f802a60b",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "97f5bbe45ef337944a505756",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "7debe5820d4ad90a4393d008",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "7c8e64fead9acbf7ade33d65",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "04a4e7ac5f5b11dcf0796390",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "d8a83c8bcd98898f6701d004",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "5da8884fa5b3fde5b637057d",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "0885e7af8d87cef8661880ef",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "61cfc46a8844ca85366736ca",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "f99238fe2a20126752eb33cc",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "51a05d6aa2d6791d6aafc55e",
+      "decision": "ABSTAIN",
+      "predicted_families": []
+    },
+    {
+      "case_id": "5644878f2ac89d2b12d7d000",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "7b2bb415717b56c24c168178",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "f418d59e9e5871e058655329",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "eb24b913f88133e0a9736142",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "e6f0d6abe00e9ddea1e3e9fa",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "e852e823acee97c1ffce6865",
+      "decision": "REJECT",
+      "predicted_families": [
+        "design",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "b27526970eafc7726a41eab3",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "799e15ad12a36d8be05175dc",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "83bcfe1e060bfc469e67d141",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "8b4354cfe2c96a22f9f2acfd",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "bcd42d502258bcba2a06a5c3",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a3d991fcb506d4d73caf0501",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "3ad66dd5c6d92de9b2cc4622",
+      "decision": "REJECT",
+      "predicted_families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "743f01cd4066ac6d4c343679",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "6e1e9c3c93bfafb4676d73c5",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "e2be1b443b0c9518d25052b9",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "919f277ea030b3c48a0bd787",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "e4a07896953f240c7fb1f2ee",
+      "decision": "ABSTAIN",
+      "predicted_families": []
+    },
+    {
+      "case_id": "9c7982854d4fa1cfcd688c8f",
+      "decision": "ABSTAIN",
+      "predicted_families": []
+    },
+    {
+      "case_id": "494961baa55556e620d8712a",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "40c05a40001fcfa0cb0f72af",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "2e63d534a6258ea474575f05",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "a2be3eb962da7ac735918542",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "91774432edf278c8f2952349",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "1d59a1aff44c14b09576e385",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "f683c6f5b66f4079793579ee",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "b6e7b2e2d4dc75913af0d5c5",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "d860bafda1a5f1114b4070e1",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "41088083c083b7d0aeada139",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "154e38bef4d1925558fc689e",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "386a7b8d70c270f6bc1e441b",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "fc98f5dfd0e15a78b2fef249",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "186e61dec8e2d63a4880d5e5",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "027ac7b6d757b6f7e2d61d8d",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "69bc28e01b0d70c09816e8d6",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "173631ff0c1d39d934367aec",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "916be0ad3780c05e0a84dbc9",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "51c127933ccd3b6801b3516d",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "7d57dcf6941b0bd5280520eb",
+      "decision": "REJECT",
+      "predicted_families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "02942e6270cf49581b04edec",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "77130483cb0dc73000f0e427",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "d4cb4bd3300771ae43ec784d",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "601ee20b2490259585efe1fe",
+      "decision": "REJECT",
+      "predicted_families": [
+        "design"
+      ]
+    },
+    {
+      "case_id": "47b2f3a34008ceaeadd1c8e2",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "e8337999b2d88a5222df3070",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "0b12c0d471ffb76e1eb1a17a",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "9d20bbfd4cc201fa629fdf52",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "bbe40d0274bd3f06fa574004",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "907699770d0b5abafe0644ef",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "78b16dd8077f30aeefb51de1",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "a67db5356809743c5e9ba010",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "34c89928eee252db1e002294",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "12f0623a46261534eb48dfb2",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "0598e545fbb694a6f76c3ea2",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "d4c45684fff0e4b15286e332",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a11a9b4b1942e6605dcaaad6",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "dbdd4ba26f2ee17589844bed",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "7f8e7b25165317944a157ff3",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "449730daa3200f8bc00fad7e",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "d625b85a300ffe00eca51862",
+      "decision": "ABSTAIN",
+      "predicted_families": []
+    },
+    {
+      "case_id": "928f2f9c69d18199f86f2808",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "9a91570ab2d398864f5e900f",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "152d52411de08eb93bf1203f",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "ccfb13937f5907b780c337f1",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "cc83b0a8b85a28babe105f75",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "54a5c64d5bba97532b3d1ebc",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "ae99ca1cd2eaeaa64f9852b4",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "df15709dd9c075bbf7591c2d",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "83d6cc5e6c1367a2e11207e0",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "d4c7168c0959418395be9b93",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "19ba1405bcd2b1601b7a1d28",
+      "decision": "ABSTAIN",
+      "predicted_families": []
+    },
+    {
+      "case_id": "6486b86a3a725e2f04cb480b",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "34a1338d71c0d30569b63d47",
+      "decision": "REJECT",
+      "predicted_families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "8051d28b6297f938553e940a",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "c8f8dd2a6d10abb35f364c82",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "ac24dc04dbb10c43221dc4fe",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "83d9f34dd931cf5d92299415",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a18a0daa3678a31cae5b5cae",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "f897a2bae953fe898aeaaa4e",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "1da4ebe85eac5e974af58990",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "f4503f660a3050ca11bf8362",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "aa6c2128afebf2f3cf384aa0",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "0f8197bf9c36fb040b54ebf3",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "104f7ad914d0a1277dc19614",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "ffac69ac7d19b59aae89753d",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "44ccaeafd003dd8007192a5a",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "cb981cc90e223290e8dc6403",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "2434a6c7b08ba785c8058ced",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "efcca9ca6f15382ad7c2c63f",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "e91a3e974a0901e2a8f2bcab",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "b7b378b53742a0b4d6429de8",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "5ba695c7a6958cc30edc171b",
+      "decision": "ABSTAIN",
+      "predicted_families": []
+    },
+    {
+      "case_id": "12b4cab15093aaabd532faa3",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "baa2caa72ba717b66bbc7de2",
+      "decision": "REJECT",
+      "predicted_families": [
+        "design",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "270b73e5a19fa560ebb2aa0f",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "4d4faf1ef375db72d3d54313",
+      "decision": "REJECT",
+      "predicted_families": [
+        "design"
+      ]
+    },
+    {
+      "case_id": "04c638b880226287074a04af",
+      "decision": "REJECT",
+      "predicted_families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "cd5c6f0f192765aee172d6c4",
+      "decision": "ABSTAIN",
+      "predicted_families": []
+    },
+    {
+      "case_id": "71984e13bc6cc4fffedf0e5d",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "a11437e41d3211f2fdad62f6",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "fb6c8c332a8141df17c05515",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "36d07cb2a3bd56893bf159db",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "20c7aa02ea8cad7c3d57576c",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "29c1592c406f63fda63f0014",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "cc82dfd44ba711a9ba29e5af",
+      "decision": "REJECT",
+      "predicted_families": [
+        "design",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "9d9dfcca71fba2a8d7f8383f",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "719ba6da6d801d5074589709",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "7723c8e5896dc4a8db4078a6",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "5a45e9b2d4952589e0484f5a",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "c66a9cefddf3afeefdedd3f7",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "cc4cfa340e59dd606766ad95",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "7082fedf2f3507828b0786e4",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "4daaeef5e0ee6ce4f17d5cfc",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "d2e49c4eb24bb361752e758b",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "7f880dc89c8cac171b8a5702",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "a0f9ad4354903652eb9f5671",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "5b2562490a2dad0a2bc598ad",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "8d6cc2eed84731b11a5e0ccf",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "dfcc47533a365c1e96df2bc8",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "fb71d19555fa6c1bea324f87",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "46a40e3205ee725b4010f5cf",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "3b6d849c3eb0bd40cd000da6",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "eb9f8ef284d856dae03088a8",
+      "decision": "ABSTAIN",
+      "predicted_families": []
+    },
+    {
+      "case_id": "5c2a52cdab270018a00d9288",
+      "decision": "REJECT",
+      "predicted_families": [
+        "identity"
+      ]
+    },
+    {
+      "case_id": "2a6572bef0ea2d2772979320",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "6d43935dc113a4e44fa4329d",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody"
+      ]
+    },
+    {
+      "case_id": "f8bcbf089a29c752c3e63430",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "5c997f1cf9411a72c926fbfa",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "dce96cfb48eead1d02171cb6",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "c6826aa26f9eb396bf7cda7f",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "412433c772f4e909381cc505",
+      "decision": "ABSTAIN",
+      "predicted_families": []
+    },
+    {
+      "case_id": "5af827ae79cc4bbf08f74d22",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "5f0889b6339bb4a91804a101",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "2c98f82d39f09eaee0cb99b5",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "667f236b723ed3de123ccf2b",
+      "decision": "REJECT",
+      "predicted_families": [
+        "features"
+      ]
+    },
+    {
+      "case_id": "85316f24158df368f3e0e501",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "1bd7655aafe0e509908efa97",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "bcc1d003265593072c02adb7",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "42e2e5d8242918761ff77bae",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody",
+        "identity"
+      ]
+    },
+    {
+      "case_id": "4d3e14286c7c0d21fcb49fef",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "27e02c157d99535f260c6306",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "b2c5f5ad3c432ca9c6f38f2f",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "ce25ac59941d3acee464e3dc",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "2d8c6945b2b46fae746405fa",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability",
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "678d902c1da71bb6ca434098",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "be503d87130ac88092007c47",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "05ab5a2df6e89d32e6424ee4",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "4dd02a6457cfcfaefb1eb50b",
+      "decision": "ABSTAIN",
+      "predicted_families": []
+    },
+    {
+      "case_id": "226b59d83d1c408e68534f94",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "63d474e395637190ec42338b",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "10f841edeafce292263aac14",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "bfc815351b94d290d1ab5ee7",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "23f8edcbae4d943cd005cbff",
+      "decision": "REJECT",
+      "predicted_families": [
+        "statistics"
+      ]
+    },
+    {
+      "case_id": "95003344c9f97e3abe24e3f6",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "6b85e712ebb0d18567a84d24",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "41ca4108de912e29d6a0b0ad",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "68eece18147ba7881c400b8c",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "9955c8833697fc6e9b3561dc",
+      "decision": "ACCEPT",
+      "predicted_families": []
+    },
+    {
+      "case_id": "3164db2e40ffeaaa8214aa0c",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "ee5dc86396677a8797ef4a89",
+      "decision": "REJECT",
+      "predicted_families": [
+        "custody",
+        "stability"
+      ]
+    },
+    {
+      "case_id": "81135eeca26104d7ee85941f",
+      "decision": "REJECT",
+      "predicted_families": [
+        "quality"
+      ]
+    },
+    {
+      "case_id": "b369b2b05b0d7a60571652a9",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    },
+    {
+      "case_id": "330d98388c08d32e1c98015e",
+      "decision": "REJECT",
+      "predicted_families": [
+        "stability"
+      ]
+    }
+  ]
+}

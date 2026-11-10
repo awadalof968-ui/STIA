@@ -1,0 +1,7 @@
+# Direct dependencies tested with the portable wheel on CPython 3.12.8.
+numpy==2.3.1
+scipy==1.16.0
+pandas==2.3.1
+scikit-learn==1.9.0
+anndata==0.13.2
+PyYAML==6.0.3

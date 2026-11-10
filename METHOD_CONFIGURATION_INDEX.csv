@@ -1,0 +1,7 @@
+method,task,frozen_protocol,representation,datasets,rows
+GraphST,90 paired simulated inputs,x3_stageB_canonical_20260812,latent_primary,90,90
+Harmony,90 paired simulated inputs,harmony_pca30_log1p_theta2.0_sigma0.1_iter20_v1,latent_primary,90,90
+INSPIRE,90 paired simulated inputs,x3_stageB_canonical_20260812,latent_primary,90,90
+PCA,90 paired simulated inputs,x3_stageB_canonical_20260812,latent_primary,90,90
+PRECAST,90 paired simulated inputs,precast1.9_raw_panel3000_k20_q15_iter30_kmeans_knn10_zeroguard_v1,latent_primary,90,90
+STAligner,90 paired simulated inputs,STALIGNER_V2_BLOCKDIAG_20260813,latent_primary,90,90

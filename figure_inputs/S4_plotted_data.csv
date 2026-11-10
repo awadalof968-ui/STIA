@@ -1,0 +1,165 @@
+condition,label,seed,value,role
+balanced_orthogonal_positive,PCA,,3.543888614811858e-09,deterministic
+balanced_orthogonal_positive,Harmony,20260819.0,0.0052864915888889,technical_seed
+balanced_orthogonal_positive,Harmony,20260820.0,0.0051767881179147,technical_seed
+balanced_orthogonal_positive,Harmony,20260821.0,0.0052249062111409,technical_seed
+balanced_orthogonal_positive,Harmony,20260822.0,0.0067899576451121,technical_seed
+balanced_orthogonal_positive,Harmony,20260823.0,0.0056154211755032,technical_seed
+balanced_orthogonal_positive,INSPIRE latent,20260819.0,0.2447104575862408,technical_seed
+balanced_orthogonal_positive,INSPIRE latent,20260820.0,0.1337259340617892,technical_seed
+balanced_orthogonal_positive,INSPIRE latent,20260821.0,0.172555734883526,technical_seed
+balanced_orthogonal_positive,INSPIRE latent,20260822.0,0.1231353064120804,technical_seed
+balanced_orthogonal_positive,INSPIRE latent,20260823.0,0.138244267981927,technical_seed
+balanced_orthogonal_positive,INSPIRE shared,20260819.0,0.4630463951619686,technical_seed
+balanced_orthogonal_positive,INSPIRE shared,20260820.0,0.2142536422151745,technical_seed
+balanced_orthogonal_positive,INSPIRE shared,20260821.0,0.2054674624086633,technical_seed
+balanced_orthogonal_positive,INSPIRE shared,20260822.0,0.271539460090664,technical_seed
+balanced_orthogonal_positive,INSPIRE shared,20260823.0,0.7154309232643954,technical_seed
+balanced_orthogonal_positive,INSPIRE gamma,20260819.0,0.0007556299433184,technical_seed
+balanced_orthogonal_positive,INSPIRE gamma,20260820.0,0.0011448757703318,technical_seed
+balanced_orthogonal_positive,INSPIRE gamma,20260821.0,0.0008255412146302,technical_seed
+balanced_orthogonal_positive,INSPIRE gamma,20260822.0,0.0011365722708611,technical_seed
+balanced_orthogonal_positive,INSPIRE gamma,20260823.0,0.000966239396179,technical_seed
+balanced_orthogonal_positive,INSPIRE full,20260819.0,0.0188224097340642,technical_seed
+balanced_orthogonal_positive,INSPIRE full,20260820.0,0.0131617916211646,technical_seed
+balanced_orthogonal_positive,INSPIRE full,20260821.0,0.0186059866081987,technical_seed
+balanced_orthogonal_positive,INSPIRE full,20260822.0,0.0292982430975119,technical_seed
+balanced_orthogonal_positive,INSPIRE full,20260823.0,0.0782786414837613,technical_seed
+balanced_orthogonal_positive,GraphST,20260819.0,0.0016671578099444,technical_seed
+balanced_orthogonal_positive,GraphST,20260820.0,0.0018434735993569,technical_seed
+balanced_orthogonal_positive,GraphST,20260821.0,0.002010449710415,technical_seed
+balanced_orthogonal_positive,GraphST,20260822.0,0.0012448151421534,technical_seed
+balanced_orthogonal_positive,GraphST,20260823.0,0.0023070651796726,technical_seed
+balanced_orthogonal_positive,STAligner,20260819.0,0.0597397900267767,technical_seed
+balanced_orthogonal_positive,STAligner,20260820.0,0.049741203888855,technical_seed
+balanced_orthogonal_positive,STAligner,20260821.0,0.0394503354746338,technical_seed
+balanced_orthogonal_positive,STAligner,20260822.0,0.0497771688088421,technical_seed
+balanced_orthogonal_positive,STAligner,20260823.0,0.0376234853229139,technical_seed
+balanced_orthogonal_positive,PRECAST,20260819.0,0.0801745519652777,technical_seed
+balanced_orthogonal_positive,PRECAST,20260820.0,0.0597553675839674,technical_seed
+balanced_orthogonal_positive,PRECAST,20260821.0,0.0564757898969877,technical_seed
+balanced_orthogonal_positive,PRECAST,20260822.0,0.0586001116785979,technical_seed
+balanced_orthogonal_positive,PRECAST,20260823.0,0.0603083034885944,technical_seed
+batch_only,PCA,,3.6421287630931443e-09,deterministic
+batch_only,Harmony,20260819.0,0.0060613192699083,technical_seed
+batch_only,Harmony,20260820.0,0.0049357683639144,technical_seed
+batch_only,Harmony,20260821.0,0.0055657632217755,technical_seed
+batch_only,Harmony,20260822.0,0.0046365357428021,technical_seed
+batch_only,Harmony,20260823.0,0.0035354532097701,technical_seed
+batch_only,INSPIRE latent,20260819.0,0.3753214067752773,technical_seed
+batch_only,INSPIRE latent,20260820.0,0.4275338584024051,technical_seed
+batch_only,INSPIRE latent,20260821.0,0.4092115051536216,technical_seed
+batch_only,INSPIRE latent,20260822.0,0.3497287536935488,technical_seed
+batch_only,INSPIRE latent,20260823.0,0.4150104595116117,technical_seed
+batch_only,INSPIRE shared,20260819.0,0.3638209859154111,technical_seed
+batch_only,INSPIRE shared,20260820.0,0.6840921147318026,technical_seed
+batch_only,INSPIRE shared,20260821.0,0.4632453335808914,technical_seed
+batch_only,INSPIRE shared,20260822.0,0.6556644799058592,technical_seed
+batch_only,INSPIRE shared,20260823.0,0.3509175953220335,technical_seed
+batch_only,INSPIRE gamma,20260819.0,0.0004125479416031,technical_seed
+batch_only,INSPIRE gamma,20260820.0,0.0013781051638817,technical_seed
+batch_only,INSPIRE gamma,20260821.0,0.0008717970149552,technical_seed
+batch_only,INSPIRE gamma,20260822.0,0.0017304556738848,technical_seed
+batch_only,INSPIRE gamma,20260823.0,0.0009767314182362,technical_seed
+batch_only,INSPIRE full,20260819.0,0.0024953630485567,technical_seed
+batch_only,INSPIRE full,20260820.0,0.026024844146718,technical_seed
+batch_only,INSPIRE full,20260821.0,0.0142648114893969,technical_seed
+batch_only,INSPIRE full,20260822.0,0.024225650745411,technical_seed
+batch_only,INSPIRE full,20260823.0,0.0097262203261016,technical_seed
+batch_only,GraphST,20260819.0,0.0010598740931709,technical_seed
+batch_only,GraphST,20260820.0,0.0013713649328625,technical_seed
+batch_only,GraphST,20260821.0,0.0026614489435309,technical_seed
+batch_only,GraphST,20260822.0,0.0010477173598184,technical_seed
+batch_only,GraphST,20260823.0,0.0016087454956062,technical_seed
+batch_only,STAligner,20260819.0,0.0933105939094294,technical_seed
+batch_only,STAligner,20260820.0,0.0547317171586829,technical_seed
+batch_only,STAligner,20260821.0,0.0760993716652202,technical_seed
+batch_only,STAligner,20260822.0,0.0609489721746222,technical_seed
+batch_only,STAligner,20260823.0,0.0521805184122683,technical_seed
+batch_only,PRECAST,20260819.0,0.0793863566225385,technical_seed
+batch_only,PRECAST,20260820.0,0.0663576287396554,technical_seed
+batch_only,PRECAST,20260821.0,0.0541405276692646,technical_seed
+batch_only,PRECAST,20260822.0,0.0632856086144104,technical_seed
+batch_only,PRECAST,20260823.0,0.0571736236739156,technical_seed
+disease_only_no_batch,PCA,,3.5692768767575613e-09,deterministic
+disease_only_no_batch,Harmony,20260819.0,,not_applicable
+disease_only_no_batch,Harmony,20260820.0,,not_applicable
+disease_only_no_batch,Harmony,20260821.0,,not_applicable
+disease_only_no_batch,Harmony,20260822.0,,not_applicable
+disease_only_no_batch,Harmony,20260823.0,,not_applicable
+disease_only_no_batch,INSPIRE latent,20260819.0,0.1332293118902983,technical_seed
+disease_only_no_batch,INSPIRE latent,20260820.0,0.1427240382450946,technical_seed
+disease_only_no_batch,INSPIRE latent,20260821.0,0.1443512244860519,technical_seed
+disease_only_no_batch,INSPIRE latent,20260822.0,0.1330374532413764,technical_seed
+disease_only_no_batch,INSPIRE latent,20260823.0,0.1031916217179912,technical_seed
+disease_only_no_batch,INSPIRE shared,20260819.0,0.2211027511283548,technical_seed
+disease_only_no_batch,INSPIRE shared,20260820.0,0.4964071520290972,technical_seed
+disease_only_no_batch,INSPIRE shared,20260821.0,0.1909819674597248,technical_seed
+disease_only_no_batch,INSPIRE shared,20260822.0,0.6135571574211832,technical_seed
+disease_only_no_batch,INSPIRE shared,20260823.0,0.274367037472515,technical_seed
+disease_only_no_batch,INSPIRE gamma,20260819.0,0.0004166271758175,technical_seed
+disease_only_no_batch,INSPIRE gamma,20260820.0,0.0029756542203413,technical_seed
+disease_only_no_batch,INSPIRE gamma,20260821.0,0.0031986076753213,technical_seed
+disease_only_no_batch,INSPIRE gamma,20260822.0,0.0028984278548875,technical_seed
+disease_only_no_batch,INSPIRE gamma,20260823.0,0.0016275390291163,technical_seed
+disease_only_no_batch,INSPIRE full,20260819.0,0.002251647282387,technical_seed
+disease_only_no_batch,INSPIRE full,20260820.0,0.0205820544467379,technical_seed
+disease_only_no_batch,INSPIRE full,20260821.0,0.0170039662644964,technical_seed
+disease_only_no_batch,INSPIRE full,20260822.0,0.0314292080634155,technical_seed
+disease_only_no_batch,INSPIRE full,20260823.0,0.0203190728252811,technical_seed
+disease_only_no_batch,GraphST,20260819.0,0.0047171547774186,technical_seed
+disease_only_no_batch,GraphST,20260820.0,0.0033626419086024,technical_seed
+disease_only_no_batch,GraphST,20260821.0,0.0047087171901937,technical_seed
+disease_only_no_batch,GraphST,20260822.0,0.0068198134533289,technical_seed
+disease_only_no_batch,GraphST,20260823.0,0.0061421610971919,technical_seed
+disease_only_no_batch,STAligner,20260819.0,0.067979310558239,technical_seed
+disease_only_no_batch,STAligner,20260820.0,0.0483652538621109,technical_seed
+disease_only_no_batch,STAligner,20260821.0,0.0341489675138133,technical_seed
+disease_only_no_batch,STAligner,20260822.0,0.0649318132286775,technical_seed
+disease_only_no_batch,STAligner,20260823.0,0.038917747932924,technical_seed
+disease_only_no_batch,PRECAST,20260819.0,0.0693362826872175,technical_seed
+disease_only_no_batch,PRECAST,20260820.0,0.0758406534424745,technical_seed
+disease_only_no_batch,PRECAST,20260821.0,0.0693623985397188,technical_seed
+disease_only_no_batch,PRECAST,20260822.0,0.0833867894638872,technical_seed
+disease_only_no_batch,PRECAST,20260823.0,0.0560820561932576,technical_seed
+null_no_batch,PCA,,3.409843043981309e-09,deterministic
+null_no_batch,Harmony,20260819.0,,not_applicable
+null_no_batch,Harmony,20260820.0,,not_applicable
+null_no_batch,Harmony,20260821.0,,not_applicable
+null_no_batch,Harmony,20260822.0,,not_applicable
+null_no_batch,Harmony,20260823.0,,not_applicable
+null_no_batch,INSPIRE latent,20260819.0,0.12907586351227,technical_seed
+null_no_batch,INSPIRE latent,20260820.0,0.13683736502204,technical_seed
+null_no_batch,INSPIRE latent,20260821.0,0.1293418045761479,technical_seed
+null_no_batch,INSPIRE latent,20260822.0,0.1357459086125184,technical_seed
+null_no_batch,INSPIRE latent,20260823.0,0.1112556801923183,technical_seed
+null_no_batch,INSPIRE shared,20260819.0,0.2259552872624865,technical_seed
+null_no_batch,INSPIRE shared,20260820.0,0.4623439146364975,technical_seed
+null_no_batch,INSPIRE shared,20260821.0,0.1218352743253815,technical_seed
+null_no_batch,INSPIRE shared,20260822.0,0.608143864017916,technical_seed
+null_no_batch,INSPIRE shared,20260823.0,0.3126391601974982,technical_seed
+null_no_batch,INSPIRE gamma,20260819.0,0.0005148840910952,technical_seed
+null_no_batch,INSPIRE gamma,20260820.0,0.0027053282339597,technical_seed
+null_no_batch,INSPIRE gamma,20260821.0,0.0021659253319872,technical_seed
+null_no_batch,INSPIRE gamma,20260822.0,0.002646885002837,technical_seed
+null_no_batch,INSPIRE gamma,20260823.0,0.001765459605364,technical_seed
+null_no_batch,INSPIRE full,20260819.0,0.0033205499771104,technical_seed
+null_no_batch,INSPIRE full,20260820.0,0.0178193980270139,technical_seed
+null_no_batch,INSPIRE full,20260821.0,0.0064679625400581,technical_seed
+null_no_batch,INSPIRE full,20260822.0,0.0274470176046128,technical_seed
+null_no_batch,INSPIRE full,20260823.0,0.0220991571822256,technical_seed
+null_no_batch,GraphST,20260819.0,0.0016469072589704,technical_seed
+null_no_batch,GraphST,20260820.0,0.0029647263834076,technical_seed
+null_no_batch,GraphST,20260821.0,0.0061888892865871,technical_seed
+null_no_batch,GraphST,20260822.0,0.0035108396977787,technical_seed
+null_no_batch,GraphST,20260823.0,0.0056135901160471,technical_seed
+null_no_batch,STAligner,20260819.0,0.0533084421332528,technical_seed
+null_no_batch,STAligner,20260820.0,0.0419972710482527,technical_seed
+null_no_batch,STAligner,20260821.0,0.0398478281463117,technical_seed
+null_no_batch,STAligner,20260822.0,0.0454440347468442,technical_seed
+null_no_batch,STAligner,20260823.0,0.031269358983247,technical_seed
+null_no_batch,PRECAST,20260819.0,0.0674525787690902,technical_seed
+null_no_batch,PRECAST,20260820.0,0.0719664590544364,technical_seed
+null_no_batch,PRECAST,20260821.0,0.0680724938064766,technical_seed
+null_no_batch,PRECAST,20260822.0,0.0765584734058765,technical_seed
+null_no_batch,PRECAST,20260823.0,0.0531071349387879,technical_seed
